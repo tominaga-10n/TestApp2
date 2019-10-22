@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //ちょっと変更したよ
         //Commit & pushをテスト
         //もういちどCommit & Pushをテスト
+        //変更したよby会社ＰＣ
     }
 }
