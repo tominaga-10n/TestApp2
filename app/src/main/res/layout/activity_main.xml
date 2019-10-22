@@ -26,4 +26,15 @@
         tools:layout_editor_absoluteX="38dp"
         tools:layout_editor_absoluteY="477dp" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextViewをもう一つ追加"
+        android:textAlignment="center"
+        android:textColor="#3F51B5"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="606dp" />
+
 </android.support.constraint.ConstraintLayout>
